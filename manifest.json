@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Smoother Wool by RJ226, Visit rj226.uk for more",
+        "name": "Smoother Wool",
+        "uuid": "c102f003-7aab-4e35-b5c2-5fcfa0ba1c48",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 13, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Smoother Wool",
+            "type": "resources",
+            "uuid": "e0a903d1-d8ef-435e-87af-0340bf3bef91",
+            "version": [0, 0, 1]
+        }
+    ]
+}
